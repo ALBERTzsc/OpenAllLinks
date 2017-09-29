@@ -1,0 +1,2 @@
+python OpenAll.py
+pause
